@@ -1,0 +1,36 @@
+Did [CHARACTER] [INTERACTION] [CHARACTER]?|
+Did [CHARACTER] [INTERACTION] [CHARACTER] in [MOVIE]?|
+When did [CHARACTER] first [INTERACTION] [CHARACTER]?|
+What [INTERACTION] occured with [CHARACTER]?|
+Was [CHARACTER] present in [MOVIE]?|
+Who did [CHARACTER] [INTERACTION] in [MOVIE]?|
+Who did [CHARACTER] [INTERACTION]?|
+Who [INTERACTION] [CHARACTER] in the [MOVIE]?|
+Who [INTERACTION] [CHARACTER]?|
+How many younglings did [CHARACTER] [INTERACTION] with in [MOVIE]?|
+How many times did [CHARACTER] and [CHARACTER] [INTERACTION] in [MOVIE]?|
+Did [CHARACTER] [INTERACTION] [CHARACTER]?|
+Was [CHARACTER] in [MOVIE]?|
+Who [INTERACTION] [CHARACTER] in [MOVIE]?|
+Who did [CHARACTER] [INTERATION] with the most?|
+Did [CHARACTER] [INTERACTION] [CHARACTER] in [MOVIE]?|
+What movies did [CHARACTER] appear in?|
+When was [CHARACTER] mentioned?|
+When did [CHARACTER] [INTERACTION] [CHARACTER]?|
+Is there a connection between [CHARACTER] and [CHARACTER]?|
+What [INTERACTION] occurred in [MOVIE]?|
+Who [INTERACTION] [CHARACTER]?|
+When was [CHARACTER] first appearance?|
+Who did [CHARACTER] [INTERACTION] in [MOVIE]?|
+Has [CHARACTER] ever [INTERACTION] [CHARACTER]?|
+How many times has [CHARACTER] [INTERACTION] [CHARACTER]?|
+How often has [CHARACTER] [INTERACTION] with [CHARACTER]?|
+Has [CHARACTER] [INTERACTION] [CHARACTER]?|
+Who has [CHARACTER] [INTERACTION] with the most?|
+Who has [CHARACTER] [INTERACTION] the least with in [MOVIE]?|
+Who does [CHARACTER] [INTERACTION] with the most?|
+Did [CHARACTER] [INTERACTION] with [CHARACTER]?|
+Who has [CHARACTER] [INTERACTION] with?|
+When did [CHARACTER] first appear?|
+When did [CHARACTER] last appear?|
+Where did [CHARACTER] [INTERACTION] [CHARACTER]?|
